@@ -1,1 +1,1 @@
-# verbnetworks.github.io
+### This repository contains files used to create [verbnetworks.com](https://verbnetworks.com/)
